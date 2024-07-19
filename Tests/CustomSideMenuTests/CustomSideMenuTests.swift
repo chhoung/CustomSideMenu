@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import SideMenu
+@testable import CustomSideMenu
 
-class SideMenuTests: XCTestCase {
+class CustomSideMenuTests: XCTestCase {
 
     override func setUp() {
         super.setUp()
